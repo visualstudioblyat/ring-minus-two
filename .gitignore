@@ -1,0 +1,13 @@
+*.exe
+*.obj
+*.pdb
+*.lib
+*.exp
+*.ilk
+x64/
+Debug/
+Release/
+*.suo
+*.user
+.vs/
+node_modules/
